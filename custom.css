@@ -1,0 +1,15 @@
+
+#pipeline-box {
+  display: none !important;
+}
+
+.sonar-projects {
+  position: relative !important;
+  margin-top: 20px !important;
+  display: block !important;
+  order: 10;
+}
+
+.jenkins-card {
+  margin-bottom: 100px !important;
+}
